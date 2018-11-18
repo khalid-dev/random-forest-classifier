@@ -11,4 +11,4 @@
 * Remove storage of training data in nodes
   * Instead of relying on computing the gini score of data at each node, determine leaf nodes by number of samples at a node
 * Implement a frontend UI through which a user can see how changing different settings while training leads to different results
- 
+  * This is the intended purpose of boilermaker in this project
