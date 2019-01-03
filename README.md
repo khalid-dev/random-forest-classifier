@@ -6,7 +6,7 @@
 * Read textbooks and articles to get an understanding of supervised machine learning algorithms and random forest classifiers
 ## Current Problems
 * Representing each individual tree in an array is memory prohibitive when ensuring data is split enough times to reach meaningful, distinct leaf nodes.
-## TODO: Post December 7th
+## TODO:
 * Restructure data structure for individual trees from arrays to simple nodes with left and right pointers
 * Remove storage of training data in nodes
   * Instead of relying on computing the gini score of data at each node, determine leaf nodes by number of samples at a node
